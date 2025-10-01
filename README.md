@@ -1,2 +1,1 @@
-# WebWeed
-Project sky 01
+# WebWeed - Fullstack Shop Starter
