@@ -1,7 +1,17 @@
+# Node
 node_modules
+npm-debug.log*
+
+# Env
 .env
+
+# SQLite
 *.sqlite
 *.db
-apps/web/dist
+
+# Expo
 .expo
 .expo-shared
+
+# Vite build
+apps/web/dist
