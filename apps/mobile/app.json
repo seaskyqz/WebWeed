@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Shop Mobile",
+    "slug": "shop-mobile",
+    "scheme": "shopmobile",
+    "android": { "package": "com.example.shopmobile" },
+    "ios": { "supportsTablet": true }
+  }
+}

@@ -1,0 +1,1 @@
+// React App component placeholder
